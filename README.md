@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sreenu7781
+- 👋 Hi, I’m @Sreenu
 - 👀 enthusiast on AI/Ml
 - 🌱 I’m pursuing Java 
 - 💞️ I’m looking to collaborate on with tech dev
