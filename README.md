@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sreenu7781
-- 👀 I’m interested in developing role
-- 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 enthusiast on AI/Ml
+- 🌱 I’m pursuing Java 
+- 💞️ I’m looking to collaborate on with tech dev
+
 
 <!---
 sreenu7781/sreenu7781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
